@@ -6,7 +6,7 @@
   "author": "Sam Davis",
   "repository": {
     "type": "git",
-    "url": "https://github.com/treetrum/mutable-constant-static"
+    "url": "https://github.com/treetrumco/mutable-constant"
   },
   "scripts": {
     "dev": "astro dev",
@@ -17,14 +17,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.10",
-    "astro": "^7.2.2",
-    "typescript": "^7.0.2",
-    "zod": "^4.4.3"
+    "@astrojs/check": "0.9.12",
+    "astro": "7.4.12",
+    "typescript": "7.0.2",
+    "zod": "4.6.7"
   },
-  "packageManager": "pnpm@11.5.1+sha512.93f7b57422ea7068257235b4c16eb60762eb68e1dc23723199cc739043ea9be2c4143274a399d8c6defa2b1176226d9ca1c4b63482d6200c1a8fbaa78c1d1485",
+  "packageManager": "pnpm@12.21.0",
   "dependencies": {
-    "@fontsource/outfit": "^5.3.0",
-    "@fontsource/source-serif-4": "^5.3.0"
+    "@fontsource/outfit": "5.3.0",
+    "@fontsource/source-serif-4": "5.3.1"
   }
 }
