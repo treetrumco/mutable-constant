@@ -45,5 +45,5 @@ pnpm preview
 
 This site is hosted on Netlify with automatic deployments enabled.
 
-- Pushing to `master` deploys production
+- Pushing to `main` deploys production
 - Pushing to `develop` deploys `develop.mutableconstant.com`
