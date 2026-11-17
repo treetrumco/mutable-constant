@@ -43,7 +43,4 @@ pnpm preview
 
 ### Deploying
 
-This site is hosted on Netlify with automatic deployments enabled.
-
-- Pushing to `main` deploys production
-- Pushing to `develop` deploys `develop.mutableconstant.com`
+This site is built from the `Dockerfile` and hosted on Dokploy, which redeploys production on every push to `main`.
